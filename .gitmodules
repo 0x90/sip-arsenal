@@ -1,0 +1,3 @@
+[submodule "sipvicious"]
+	path = sipvicious
+	url = https://github.com/sandrogauci/sipvicious
