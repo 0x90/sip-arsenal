@@ -1,3 +1,6 @@
 [submodule "sipvicious"]
 	path = sipvicious
 	url = https://github.com/sandrogauci/sipvicious
+[submodule "sippts"]
+	path = sippts
+	url = https://github.com/Pepelux/sippts
