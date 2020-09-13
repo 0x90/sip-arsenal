@@ -4,3 +4,6 @@
 [submodule "sippts"]
 	path = sippts
 	url = https://github.com/Pepelux/sippts
+[submodule "vsaudit"]
+	path = vsaudit
+	url = https://github.com/eurialo/vsaudit
